@@ -8,7 +8,6 @@ class MyGit{
 		System.out.println("修复中。。。。");
 
 		System.out.println("合并分支时可能会发生冲突");
+		"傻逼"
 	}
-
 }
-
