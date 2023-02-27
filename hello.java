@@ -6,5 +6,7 @@ class MyGit{
 		System.out.println("version 2");
 		System.out.println("version 3");
 		Sout("test merge branch");
+		
+		Sout("again test merge branch")'
 	}
 }
