@@ -11,6 +11,8 @@ class MyGit{
 		Sout(Fourth test merge branch)
 
 		This is my new work.
+			
+			I am zhb, i wrote better code. you must respect my work and thank me.
 	}
 }
 
