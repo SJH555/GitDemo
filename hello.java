@@ -9,6 +9,8 @@ class MyGit{
 	
 
 		Sout(Fourth test merge branch)
+
+		This is my new work.
 	}
 }
 
